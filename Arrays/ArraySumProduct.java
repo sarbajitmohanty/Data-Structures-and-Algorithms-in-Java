@@ -1,4 +1,4 @@
-package sarbajit;
+package sarbajit.Array;
 
 public class ArraySumProduct {
 
