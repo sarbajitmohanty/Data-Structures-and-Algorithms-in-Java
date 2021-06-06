@@ -1,4 +1,4 @@
-package sarbajit.Array;
+package sarbajit.array;
 
 import java.util.Scanner;
 

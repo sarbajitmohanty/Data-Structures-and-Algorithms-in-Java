@@ -1,4 +1,4 @@
-package sarbajit.Array;
+package sarbajit.array;
 
 public class ArrayIncreaseSize {
     public static void main(String[] args) {
